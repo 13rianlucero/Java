@@ -14,3 +14,11 @@
 12. [Comments in Java](https://www.geeksforgeeks.org/comments-in-java/?ref=lbp)
 13. [Operators in Java](https://www.geeksforgeeks.org/operators-in-java/?ref=lbp)
 14. [Ways to read input from console in Java](https://www.geeksforgeeks.org/ways-to-read-input-from-console-in-java/?ref=lbp)
+
+
+| # | Done | Title |
+| - | ---- | ----- | 
+| 1 | **--** [x] **--** | [Java Programming Language](https://www.geeksforgeeks.org/java/) |
+| 2 | --[**`X`**]-- | [Introduction to Java](https://www.geeksforgeeks.org/introduction-to-java/?ref=lbp) | 
+| 3 | --[]-- | [Setting up the environment in Java](https://www.geeksforgeeks.org/setting-environment-java/?ref=lbp) |
+------
