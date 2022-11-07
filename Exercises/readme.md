@@ -1,5 +1,7 @@
 ## `Practice` Exercises
 
+**TOTAL EXERCISES:** *`188`*
+
 ### Topics:
 
 * [ ] [Basic Programs](https://www.geeksforgeeks.org/java-programming-examples/#basic)
