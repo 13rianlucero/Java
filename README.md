@@ -1,7 +1,5 @@
 ### Java
 -----
-`Repository for learning Java.`
------
 
 
 ## Directory
