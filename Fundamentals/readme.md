@@ -1,7 +1,7 @@
-## Fundamentals 
+## `Java` Fundamentals
 
-- [x] [1-Java Programming Language](https://www.geeksforgeeks.org/java/)
-- [x] [2-Introduction to Java](https://www.geeksforgeeks.org/introduction-to-java/?ref=lbp)
+- [X] [1-Java Programming Language](https://www.geeksforgeeks.org/java/)
+- [X] [2-Introduction to Java](https://www.geeksforgeeks.org/introduction-to-java/?ref=lbp)
 - [ ] [3-Setting up the environment in Java](https://www.geeksforgeeks.org/setting-environment-java/?ref=lbp)
 - [ ] [4-Java Basic Syntax](https://www.geeksforgeeks.org/java-basic-syntax/?ref=lbp)
 - [ ] [5-Java Hello World Program](https://www.geeksforgeeks.org/java-hello-world-program/?ref=lbp)
