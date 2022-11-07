@@ -13,7 +13,7 @@
 3. [***Exercises***](https://github.com/13rianlucero/Java/tree/main/Exercises)
    - Dozens of Practice Problems corresponding to the core Java concepts
    - Mainly Code Folders/Files
-4. [***Basic Java File***]
+4. [***Basic Java File***](https://github.com/13rianlucero/Java/tree/main/BasicJavaFile)
    * Demonstrates basic java file management in VS Code
    * Create/Run Java Files
 
