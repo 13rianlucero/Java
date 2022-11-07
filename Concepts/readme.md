@@ -1,55 +1,54 @@
 # `Main` **Concepts**
 
-1. [**`Overview of Java`**]()
-2. [**`Basics of Java`**]()
-3. [**`Input/Output in Java`**]()
-4. [**`Flow Control in Java`**]()
-5. [**`Operators in Java`**]()
-6. [**`Strings in Java`**]()
-7. [**`Arrays in Java`**]()
-8. [**`OOPS in Java`**]()
-9. [**`Inheritance in Java`**]()
-10. [**`Abstraction in Java`**]()
-11. [**Encapsulation in Java`**]()
-12. [**`Polymorphism in Java`**]()
-13. [**`Constructors in Java`**]()
-14. [**`Methods in Java`**]()
-15. [**`Interfaces in Java`**]()
-16. [**`Wrapper Classes in Java`**]()
-17. [**`Keywords in Java`**]()
-18. [**`Access Modifiers in Java`**]()
-19. [**`Memory Allocation in Java`**]()
-20. [**`Classes of Java`**]()
-21. [**`Packages`**]()
-22. [**`Collection Framework`**]()
-23. [**`List`**]()
-24. [**`Queue`**]()
-25. [**`Map`**]()
-26. [**`Set`**]()
-27. [**`Exception Handling in Java`**]()
-28. [**`Multithreading in Java`**]()
-29. [**`Synchronization in Java`**]()
-30. [**`File Handling in Java`**]()
-31. [**`Java Regex`**]()
-32. [**`Java IO`**]()
-33. [**`Java Networking`**]()
-34. [**`Java SE 8 Features`**]()
-35. [**`Java Date &amp; Time`**]()
-36. [**`Java JDBC`**]()
-37. [**`Java Miscellaneous`**]()
-38. [**`Interview Questions on Java`**]()
-
----
+1. [**Overview of Java**]()
+    - [GFG Link](https://www.geeksforgeeks.org/java/#Overview%20of%20Java)
+2. [**Basics of Java**]()
+3. [**Input/Output in Java**]()
+4. [**Flow Control in Java**]()
+5. [**Operators in Java**]()
+6. [**Strings in Java**]()
+7. [**Arrays in Java**]()
+8. [**OOPS in Java**]()
+9. [**Inheritance in Java**]()
+10. [**Abstraction in Java**]()
+11. [**Encapsulation in Java**]()
+12. [**Polymorphism in Java**]()
+13. [**Constructors in Java**]()
+14. [**Methods in Java**]()
+15. [**Interfaces in Java**]()
+16. [**Wrapper Classes in Java**]()
+17. [**Keywords in Java**]()
+18. [**Access Modifiers in Java**]()
+19. [**Memory Allocation in Java**]()
+20. [**Classes of Java**]()
+21. [**Packages**]()
+22. [**Collection Framework**]()
+23. [**List**]()
+24. [**Queue**]()
+25. [**Map**]()
+26. [**Set**]()
+27. [**Exception Handling in Java**]()
+28. [**Multithreading in Java**]()
+29. [**Synchronization in Java**]()
+30. [**File Handling in Java**]()
+31. [**Java Regex**]()
+32. [**Java IO**]()
+33. [**Java Networking**]()
+34. [**Java SE 8 Features**]()
+35. [**Java Date &amp; Time**]()
+36. [**Java JDBC**]()
+37. [**Java Miscellaneous**]()
+38. [**Interview Questions on Java**]()
 
 # GFG Webpage Links
 
-> **[----- Recent Articles on Java](https://www.geeksforgeeks.org/category/programming-language/java/)**
+### **[Recent Articles on Java](https://www.geeksforgeeks.org/category/programming-language/java/)**
 
-> **[----- Java Programs – Basics to Advanced](https://www.geeksforgeeks.org/java-programming-examples/)**
+**[Java Programs – Basics to Advanced](https://www.geeksforgeeks.org/java-programming-examples/)**
 
-> **[Overview](https://www.geeksforgeeks.org/java/#Overview%20of%20Java), [Basics](https://www.geeksforgeeks.org/java/#Basics), [Input/Output](https://www.geeksforgeeks.org/java/#Input%20Output), [Flow Control](https://www.geeksforgeeks.org/java/#Flow%20Control), [Operators](https://www.geeksforgeeks.org/java/#Operators), [Strings](https://www.geeksforgeeks.org/java/#Strings), [Arrays](https://www.geeksforgeeks.org/java/#Arrays), [OOPs Concepts](https://www.geeksforgeeks.org/java/#OOPs), [Inheritance](https://www.geeksforgeeks.org/java/#Inheritance), [Abstraction](https://www.geeksforgeeks.org/java/#Abstraction), [Encapsulation](https://www.geeksforgeeks.org/java/#Encapsulation), [Polymorphism](https://www.geeksforgeeks.org/java/#Polymorphism), [Constructors](https://www.geeksforgeeks.org/java/#Constructors), [Methods](https://www.geeksforgeeks.org/java/#Methods), [Interfaces](https://www.geeksforgeeks.org/java/#Interfaces), [Wrapper Classes](https://www.geeksforgeeks.org/java/#Wrapper%20Classes), [Keywords](https://www.geeksforgeeks.org/java/#Keywords), [Access Modifiers](https://www.geeksforgeeks.org/java/#Access%20Modifiers), [Memory Allocation](https://www.geeksforgeeks.org/java/#Memory%20Allocation), [Classes](https://www.geeksforgeeks.org/java/#Classes), [Packages](https://www.geeksforgeeks.org/java/#Packages), [Collection Framework](https://www.geeksforgeeks.org/java/#Collection%20Framework), [List](https://www.geeksforgeeks.org/java/#List), [Queue](https://www.geeksforgeeks.org/java/#Queue), [Map](https://www.geeksforgeeks.org/java/#Map), [Set](https://www.geeksforgeeks.org/java/#Set), [Exception Handling](https://www.geeksforgeeks.org/java/#Exception%20Handling), [Multithreading](https://www.geeksforgeeks.org/java/#Multithreading), [Synchronization](https://www.geeksforgeeks.org/java/#Synchronization), [File Handling](https://www.geeksforgeeks.org/java/#File%20Handling), [Regex](https://www.geeksforgeeks.org/java/#Regex), [Java IO](https://www.geeksforgeeks.org/java/#IO), [Networking](https://www.geeksforgeeks.org/java/#Networking), [Java 8 Features](https://www.geeksforgeeks.org/java/#Java%208), [Date &amp; Time](https://www.geeksforgeeks.org/java/#Date%20Time), [JDBC](https://www.geeksforgeeks.org/java/#JDBC), [Miscellaneous](https://www.geeksforgeeks.org/java/#Miscellaneous), [Interview Questions](https://www.geeksforgeeks.org/java/#Interview%20Questions)**
+**[Overview](https://www.geeksforgeeks.org/java/#Overview%20of%20Java), [Basics](https://www.geeksforgeeks.org/java/#Basics), [Input/Output](https://www.geeksforgeeks.org/java/#Input%20Output), [Flow Control](https://www.geeksforgeeks.org/java/#Flow%20Control), [Operators](https://www.geeksforgeeks.org/java/#Operators), [Strings](https://www.geeksforgeeks.org/java/#Strings), [Arrays](https://www.geeksforgeeks.org/java/#Arrays), [OOPs Concepts](https://www.geeksforgeeks.org/java/#OOPs), [Inheritance](https://www.geeksforgeeks.org/java/#Inheritance), [Abstraction](https://www.geeksforgeeks.org/java/#Abstraction), [Encapsulation](https://www.geeksforgeeks.org/java/#Encapsulation), [Polymorphism](https://www.geeksforgeeks.org/java/#Polymorphism), [Constructors](https://www.geeksforgeeks.org/java/#Constructors), [Methods](https://www.geeksforgeeks.org/java/#Methods), [Interfaces](https://www.geeksforgeeks.org/java/#Interfaces), [Wrapper Classes](https://www.geeksforgeeks.org/java/#Wrapper%20Classes), [Keywords](https://www.geeksforgeeks.org/java/#Keywords), [Access Modifiers](https://www.geeksforgeeks.org/java/#Access%20Modifiers), [Memory Allocation](https://www.geeksforgeeks.org/java/#Memory%20Allocation), [Classes](https://www.geeksforgeeks.org/java/#Classes), [Packages](https://www.geeksforgeeks.org/java/#Packages), [Collection Framework](https://www.geeksforgeeks.org/java/#Collection%20Framework), [List](https://www.geeksforgeeks.org/java/#List), [Queue](https://www.geeksforgeeks.org/java/#Queue), [Map](https://www.geeksforgeeks.org/java/#Map), [Set](https://www.geeksforgeeks.org/java/#Set), [Exception Handling](https://www.geeksforgeeks.org/java/#Exception%20Handling), [Multithreading](https://www.geeksforgeeks.org/java/#Multithreading), [Synchronization](https://www.geeksforgeeks.org/java/#Synchronization), [File Handling](https://www.geeksforgeeks.org/java/#File%20Handling), [Regex](https://www.geeksforgeeks.org/java/#Regex), [Java IO](https://www.geeksforgeeks.org/java/#IO), [Networking](https://www.geeksforgeeks.org/java/#Networking), [Java 8 Features](https://www.geeksforgeeks.org/java/#Java%208), [Date &amp; Time](https://www.geeksforgeeks.org/java/#Date%20Time), [JDBC](https://www.geeksforgeeks.org/java/#JDBC), [Miscellaneous](https://www.geeksforgeeks.org/java/#Miscellaneous), [Interview Questions](https://www.geeksforgeeks.org/java/#Interview%20Questions)**
 
-### ***`Overview of Java`***
+### ***Overview of Java***
 
 * [Introduction to Java](https://www.geeksforgeeks.org/introduction-to-java/)
 * [History of Java](https://www.geeksforgeeks.org/the-complete-history-of-java-programming-language/)
@@ -65,7 +64,7 @@
 * [Difference Between Byte Code and Machine Code](https://www.geeksforgeeks.org/difference-between-byte-code-and-machine-code/)
 * [How is the Java platform independent?](https://www.geeksforgeeks.org/java-platform-independent/)
 
-### *`Basics of Java`*
+### Basics of Java
 
 * [Java Basic Syntax](https://www.geeksforgeeks.org/java-basic-syntax/)
 * [First Java Program (Hello World)](https://www.geeksforgeeks.org/beginning-java-programming-with-hello-world-example/)
@@ -77,7 +76,7 @@
 * [Scope of Variables](https://www.geeksforgeeks.org/variable-scope-in-java/)
 * [Wrapper Classes in Java](https://www.geeksforgeeks.org/wrapper-classes-java/)
 
-### *`Input/Output in Java`*
+### Input/Output in Java
 
 * [How to take Input from users in Java](https://www.geeksforgeeks.org/how-to-take-input-from-user-in-java/)
 * [Scanner class in Java](https://www.geeksforgeeks.org/scanner-class-in-java/)
@@ -89,7 +88,7 @@
 * [Formatted Outputs in Java](https://www.geeksforgeeks.org/formatted-output-in-java/)
 * [Fast Input-Output for Competitive Programming in Java](https://www.geeksforgeeks.org/fast-io-in-java-in-competitive-programming/)
 
-### *`Flow Control in Java`*
+### Flow Control in Java
 
 * [Decision making in Java](https://www.geeksforgeeks.org/decision-making-javaif-else-switch-break-continue-jump/)
 * [If Statement in Java](https://www.geeksforgeeks.org/java-if-statement-with-examples/)
@@ -105,7 +104,7 @@
 * [Usage of Break in Java](https://www.geeksforgeeks.org/usage-of-break-keyword-in-java/)
 * [Return Statement in Java](https://www.geeksforgeeks.org/return-keyword-java/)
 
-### *`Operators in Java`*
+### Operators in Java
 
 * [Arithmetic Operator](https://www.geeksforgeeks.org/java-arithmetic-operators-with-examples/)
 * [Unary Operator](https://www.geeksforgeeks.org/java-unary-operator-with-examples/)
